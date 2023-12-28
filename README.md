@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/geekofycoder/geekofycoder/assets/120390701/d76aa053-f8fc-428c-adb4-5f60e8dd06b9)
+ Myself Hitanshu Satpathy
 
 <!--
 **geekofycoder/geekofycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
