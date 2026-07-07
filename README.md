@@ -1,17 +1,36 @@
-### Hi there <img src="https://github.com/geekofycoder/geekofycoder/assets/120390701/d76aa053-f8fc-428c-adb4-5f60e8dd06b9" width="30px">
- Myself Hitanshu Satpathy
+# Hi, I'm Hitanshu
 
-<!--
-**geekofycoder/geekofycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT student at IIIT Bhubaneswar. I work on cloud-native infrastructure and applied AI/ML systems.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Oracle India** — Project Intern, Cloud-Native Session Border Controller
+Kubernetes operators, OpenShift autoscaling, Helm, and observability tooling for a production telecom platform.
+
+## Previously
+
+**Hopfield Innovations** — AI Lead Intern & Founding Engineer
+Voice bots for insurance and healthcare on OpenAI LLMs; a serverless resume screener on AWS.
+
+**Avenu AI** — AI/ML Architect Intern
+Latency work on an interview-bot video pipeline, plus partner analytics integrations.
+
+## Projects
+
+- **Auto Vision** — an autonomous web-browsing agent using GPT-4 vision, benchmarked on Mind2Web, deployed on AWS Lambda.
+- **AI Insurance Agent** — a multi-agent LangGraph voice system for insurance calls, with multilingual voice cloning.
+- **AI Interview Assistant** — automated interview evaluation via distributed LLM inference, built on FastAPI and AWS Lambda.
+
+## Stack
+
+Go, Python, JavaScript, C++
+
+Kubernetes, Helm, OpenShift, KEDA, Prometheus, Docker
+
+AWS, GitHub Actions, Linux
+
+OpenAI, Anthropic Claude, LangChain, LangGraph
+
+## Elsewhere
+
+[LinkedIn](https://linkedin.com/in/hitanshusatpathy) · hitanshusatpathy@gmail.com
