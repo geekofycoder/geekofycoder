@@ -18,7 +18,6 @@ Latency work on an interview-bot video pipeline, plus partner analytics integrat
 ## Projects
 
 - **Auto Vision** — an autonomous web-browsing agent using GPT-4 vision, benchmarked on Mind2Web, deployed on AWS Lambda.
-- **AI Insurance Agent** — a multi-agent LangGraph voice system for insurance calls, with multilingual voice cloning.
 - **AI Interview Assistant** — automated interview evaluation via distributed LLM inference, built on FastAPI and AWS Lambda.
 
 ## Stack
